@@ -1,7 +1,0 @@
-{
-  "utterance": "give me username",
-  "intent_type": "UsernameIntent",
-  "intent": {
-    "UsernameKeyword": "give me username"
-  }
-}
